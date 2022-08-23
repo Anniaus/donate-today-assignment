@@ -113,3 +113,8 @@ body {
 .image {
     text-align: left;
 }
+
+.footer {
+    text-align: center;
+    background-color: black;
+}

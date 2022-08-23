@@ -53,4 +53,63 @@ body {
 
 .money {
     display: flex;
+    text-align: center;
+
+}
+
+.amount {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100px;
+    border: 5px solid gray;
+    padding: 30px;
+    margin: 50px;
+
+}
+
+#box {
+    border: 5px solid red;
+    background-color: rosybrown;
+}
+
+.final-section {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.button {
+    font-size: medium;
+    color: gray;
+    text-shadow: 5in;
+    text-decoration: underline gray;
+
+    margin bottom: 15px;
+    padding: 20px;
+
+}
+
+.box-model {
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: grey;
+}
+
+#money2 {
+
+    margin-top: 2px;
+    background-color: rgb(207, 220, 187);
+}
+
+#shelter {
+    background-color: antiquewhite;
+}
+
+#education {
+    background-color: bisque;
+}
+
+.image {
+    text-align: left;
 }
